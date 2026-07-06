@@ -1,0 +1,8 @@
+notebook
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
